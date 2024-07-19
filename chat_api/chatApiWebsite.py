@@ -1,7 +1,7 @@
 import openai 
 import gradio
 
-openai.api_key = "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"
+openai.api_key = ""
 
 messages = [{"role": "system", "content" : "You are a friend"}]
 
